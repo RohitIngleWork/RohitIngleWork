@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Rohit! 👋
 
+I'm a passionate Software Developer who enjoys solving complex algorithmic challenges and building efficient systems. Currently, I'm focused on mastering Data Structures and Algorithms.
 
-**RohitIngleWork/RohitIngleWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on
+- Refining my **Competitive Programming** skills on LeetCode.
+- Building a portfolio of efficient C++ and Python applications.
 
-Here are some ideas to get you started:
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Advanced **Sliding Window** and **Two-Pointer** techniques.
+- System Design patterns and Cloud infrastructure.
+
+### 🛠 Tech Stack
+- **Languages:** C++, Python, JavaScript, SQL
+- **Tools:** Git, GitHub, VS Code, Docker
+- **Focus:** Data Structures, Algorithms, Backend Development
+
+### 📊 My Stats
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitIngleWork&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitIngleWork&layout=compact&theme=radical)
+
+### 📫 How to reach me:
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **Email:** [Your Email Address]
+- **LeetCode:** [Your LeetCode Profile Link]
+
+### ⚡ Fun fact
+I believe that code is like humor. When you have to explain it, it’s bad.
