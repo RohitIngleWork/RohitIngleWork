@@ -21,8 +21,8 @@ I'm a passionate Software Developer who enjoys solving complex algorithmic chall
 
 ### 📫 How to reach me:
 - **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
-- **LeetCode:** [Your LeetCode Profile Link]
+- **Email:** rohitingle.work@gmail.com
+- **LeetCode:** https://leetcode.com/u/RohitIngle/
 
 ### ⚡ Fun fact
 I believe that code is like humor. When you have to explain it, it’s bad.
