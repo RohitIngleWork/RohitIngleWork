@@ -20,9 +20,7 @@ I'm a passionate Software Developer who enjoys solving complex algorithmic chall
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitIngleWork&layout=compact&theme=radical)
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** https://www.linkedin.com/in/rohitingle45/
 - **Email:** rohitingle.work@gmail.com
 - **LeetCode:** https://leetcode.com/u/RohitIngle/
 
-### ⚡ Fun fact
-I believe that code is like humor. When you have to explain it, it’s bad.
